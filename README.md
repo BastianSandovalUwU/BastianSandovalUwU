@@ -11,7 +11,7 @@
 
 - :telescope: I’m creating a Pokedex App
 - :seedling: I'm currently studying new technologies
-- :zap: Fun fact: I love Pokémon and videgames in general.
+- :zap: Fun fact: I love Pokémon and videogames in general.
 
 
 ```javascript

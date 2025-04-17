@@ -3,7 +3,7 @@
 <p><em>Software Engineering<img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width="30"></br>Full Stack Developer<img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: bastian-g11](https://img.shields.io/badge/-bastian-\-sandoval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bastián-sandoval-labraña-13115622b/)](https://www.linkedin.com/in/bastián-sandoval-labraña-13115622b/)
+[![Linkedin: bastian-g11](https://img.shields.io/badge/-Bastian-\-Sandoval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bastián-sandoval-labraña-13115622b/)](https://www.linkedin.com/in/bastián-sandoval-labraña-13115622b/)
 [![GitHub bastian](https://img.shields.io/github/followers/BastianSandovalUwU?label=follow&style=social)](https://github.com/BastianSandovalUwU)
 
 

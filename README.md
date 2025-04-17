@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: bastian](https://www.linkedin.com/in/basti%C3%A1n-sandoval-labra%C3%B1a-13115622b/)]
-[![GitHub bastian](https://img.shields.io/github/followers/bastian-g11?label=follow&style=social)](https://github.com/BastianSandovalUwU)
+[![GitHub bastian](https://img.shields.io/github/followers/BastianSandovalUwU?label=follow&style=social)](https://github.com/BastianSandovalUwU)
 
 
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVsaHZvaHNqbnFuNWs1eHpyMWpvNGRobzl4bGR4OGQ0cHR2Y2FieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X1f83aLeeNjWXkMaMe/giphy.gif" width="50"> A little more about me...

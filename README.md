@@ -16,8 +16,8 @@
 
 ```javascript
 const bastian = {
-  code: ["Angular", "Typescript", "HTML"],
-  tools: ["Vercel", "API Rest", "Node.js"],
+  code: ["Angular", "Typescript", "TailWind"],
+  tools: ["Vercel", "API Rest", "Node.js", "PokeApi"],
   challenge: "I am doing a Pokedex App with the PokeApi"
 }
 ```
@@ -26,8 +26,8 @@ const bastian = {
 ### :computer: Some stats :computer:
 
 <a href="https://github.com/BastianSandovalUwU">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BastianSandovalUwU&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastianSandovalUwU&theme=dark&layout=compact" />
+  <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=BastianSandovalUwU&theme=dark&show_icons=true&cache_seconds=60"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastianSandovalUwU&theme=dark&layout=compact&cache_seconds=60" />
 </a>
 
 ---
